@@ -5,8 +5,9 @@ import java.util.ArrayList;
 public class data {
 
     // Third step
-    // main class for the retrofit return JSON file
-    // Step $ go to the main activity
+    // main POJO class for the retrofit return JSON file
+    // for reference see the response of GET METHOD in README.md file.
+    // Step 4 go to the main activity
 
     coord coord;
 

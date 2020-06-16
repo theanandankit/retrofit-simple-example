@@ -10,7 +10,7 @@ public class ApiClint {
     //Step second .......
 
     //Make the object of the Retrofit interface
-    //Then define the
+    //Then define the POJO Class. go to the model/data for step 3
 
     Retrofit_interface apiinterface;
     public Retrofit_interface getApiinterface() {
