@@ -4,6 +4,10 @@ import java.util.ArrayList;
 
 public class data {
 
+    // Third step
+    // main class for the retrofit return JSON file
+    // Step $ go to the main activity
+
     coord coord;
 
     ArrayList<weather_info> weather;
