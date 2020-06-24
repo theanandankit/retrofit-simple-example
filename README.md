@@ -27,7 +27,7 @@ Use the Following Library
 [Retrofit Tutorial Part 1 - SIMPLE GET REQUEST - Android Studio Tutorial](https://www.youtube.com/watch?v=4JGvDUlfk7Y&t=652s)
 
 ## URL Used 
-In this example we are using the [Weather API](https://www.youtube.com/watch?v=1FVoBM9t2Ik).( Make sure to subscribe and get your own key )
+In this example we are using the [Weather API](https://www.youtube.com/watch?v=1FVoBM9t2Ik).( Make sure you subscribe and get your own key )
 
 URL: api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={your api key}
 
@@ -35,7 +35,7 @@ Method : GET
 
 ## Our Response 
 
-Example: [api.openweathermap.org/data/2.5/weather?lat=35&lon=139](https://samples.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=439d4b804bc8187953eb36d2a8c26a02) (Make sure the replace with ypur key after the subscription [LINK](https://home.openweathermap.org/users/sign_up))
+Example: [api.openweathermap.org/data/2.5/weather?lat=35&lon=139](https://samples.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=439d4b804bc8187953eb36d2a8c26a02) (Make sure you replace with your key after the subscription [LINK](https://home.openweathermap.org/users/sign_up))
 
 ```bash
  {"coord": { "lon": 139,"lat": 35},
